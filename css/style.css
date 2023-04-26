@@ -18,6 +18,10 @@ ul,label{
 body a:hover{
 	text-decoration:none;
 }
+.wh{padding:10px 5px 10px 5px;width: 113.45rem; background:url(../images/bg.jpg) no-repeat #131312b0; position: fixed; background-size: 100% 100%;}
+ p{color:rgb(238, 231, 231) ;font-size:20px; line-height:24px; padding:0px; margin:0 auto;}
+.tp tr td{padding:0px; text-align:center; color:#550606; font-size:19px; line-height:20px;}
+.tp tr td img{display:block;width: 25rem;height:15.6rem ;margin: 0 auto;}
 /*-- header --*/
 /*-- //nav-effect --*/
 .header {
@@ -207,13 +211,13 @@ p.sub_t_agileits {
     position: relative;
 }
 .w3about-text {
-  background: #ffffff;
+    background: #ffffff;
     position: absolute;
     width: 56%;
     padding: 4em;
     right: -50%;
     top: 25%;    
-	border: 1px solid #e0e0e0;
+	border: 1px solid #ffffff;
 	    -webkit-box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
     -moz-box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
     box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
