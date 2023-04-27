@@ -19,8 +19,8 @@ body a:hover{
 	text-decoration:none;
 }
 .wh{padding:10px 5px 10px 5px;width: 113.45rem; background:url(../images/bg.jpg) no-repeat #131312b0; position: fixed; background-size: 100% 100%;}
- p{color:rgb(238, 231, 231) ;font-size:20px; line-height:24px; padding:0px; margin:0 auto;}
-.tp tr td{padding:0px; text-align:center; color:#550606; font-size:19px; line-height:20px;}
+ p{color:rgb(31, 27, 27) ;font-size:20px; line-height:24px; padding:0px; margin:0 auto;}
+.tp tr td{background:url(../images/bg.jpg) no-repeat #b4650ab0; padding:0px; text-align:center; color:#550606; font-size:19px; line-height:20px;}
 .tp tr td img{display:block;width: 25rem;height:15.6rem ;margin: 0 auto;}
 /*-- header --*/
 /*-- //nav-effect --*/
@@ -101,8 +101,8 @@ body a:hover{
 /*-- //header --*/
 
 /*-- banner-top --*/
-.w3layouts-banner-top{
-    background: url(../images/banner.jpg) no-repeat 0px 0px;
+.w3layouts1-banner-top{
+    background: url(../images/banner1.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -110,17 +110,241 @@ body a:hover{
 	-moz-background-size: cover;
 	min-height:700px;
 }
-.w3layouts-banner-top1{
-	background: url(../images/banner1.jpg) no-repeat 0px 0px;
-    background-size: cover;	
-	-webkit-background-size: cover;	
-	-moz-background-size: cover;
-	-o-background-size: cover;		
-	-moz-background-size: cover;
-	min-height:700px;
-}
-.w3layouts-banner-top2{
+.w3layouts1-banner-top1{
 	background: url(../images/banner2.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts1-banner-top2{
+	background: url(../images/banner3.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;	
+	min-height:700px;
+}
+/*-- LU--*/
+.w3layouts2-banner-top{
+    background: url(../images/banner4.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts2-banner-top1{
+	background: url(../images/banner5.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts2-banner-top2{
+	background: url(../images/banner6.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;	
+	min-height:700px;
+}
+/*-- CHUAN --*/
+.w3layouts3-banner-top{
+    background: url(../images/banner7.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts3-banner-top1{
+	background: url(../images/banner8.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts3-banner-top2{
+	background: url(../images/banner9.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;	
+	min-height:700px;
+}
+/*-- YUE --*/
+.w3layouts4-banner-top{
+    background: url(../images/banner10.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts4-banner-top1{
+	background: url(../images/banner11.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts4-banner-top2{
+	background: url(../images/banner12.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;	
+	min-height:700px;
+}
+/*-- SU --*/
+.w3layouts5-banner-top{
+    background: url(../images/banner13.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts5-banner-top1{
+	background: url(../images/banner14.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts5-banner-top2{
+	background: url(../images/banner15.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;	
+	min-height:700px;
+}
+/*-- MIN --*/
+.w3layouts6-banner-top{
+    background: url(../images/banner16.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts6-banner-top1{
+	background: url(../images/banner17.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts6-banner-top2{
+	background: url(../images/banner18.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;	
+	min-height:700px;
+}
+/*-- ZHE --*/
+.w3layouts7-banner-top{
+    background: url(../images/banner19.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts7-banner-top1{
+	background: url(../images/banner20.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts7-banner-top2{
+	background: url(../images/banner21.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;	
+	min-height:700px;
+}
+/*-- HUI --*/
+.w3layouts8-banner-top{
+    background: url(../images/banner22.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts8-banner-top1{
+	background: url(../images/banner23.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts8-banner-top2{
+	background: url(../images/banner24.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;	
+	min-height:700px;
+}
+/*-- XIANG --*/
+.w3layouts9-banner-top{
+    background: url(../images/banner25.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts9-banner-top1{
+	background: url(../images/banner26.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	min-height:700px;
+}
+.w3layouts9-banner-top2{
+	background: url(../images/banner27.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -142,7 +366,7 @@ body a:hover{
 	
 }
 .agileits-banner-info h3 span{
-	    background: #2529d8;
+	    background: #667e12;
     padding: 0 15px;
 }
 .agileits-banner-info {
@@ -170,6 +394,7 @@ body a:hover{
     position: relative;
 }
 
+
 .agileits-banner-info span {
 	background: #3be8b0;
     padding: 0.5em 2em;
@@ -183,26 +408,7 @@ body a:hover{
 #about {
     background: #d61938;
 }
-h3.w3_heade_tittle_agile {
-    text-align: center;
-    font-weight: 700;
-    color: #111;
-    text-transform: uppercase;
-    font-size: 3em;
 
-}
-h3.w3_heade_tittle_agile.two {
-	  color: #fff;
-}
-p.sub_t_agileits {
-    font-size: 1em;
-    margin: 0;
-    color: #ff3c41;
-    margin-bottom: 3em;
-    font-weight: 400;
-    letter-spacing: 10px;
-    text-align: center;
-}
 .w3about-img {
     background: url(../images/about.jpg)no-repeat 0px 0px;
     background-size: cover;
@@ -211,13 +417,13 @@ p.sub_t_agileits {
     position: relative;
 }
 .w3about-text {
-    background: #ffffff;
+  background: #fff;
     position: absolute;
     width: 56%;
     padding: 4em;
     right: -50%;
     top: 25%;    
-	border: 1px solid #ffffff;
+	border: 1px solid #e0e0e0;
 	    -webkit-box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
     -moz-box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
     box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
@@ -233,6 +439,370 @@ h2.w3l-subtitle {
     line-height: 2em;
 }
 
+
+#dish11 {
+    background: #deeb2a;
+}
+#dish12 {
+    background: #c51414;
+}
+#dish13 {
+    background: #b99009;
+}
+#dish14 {
+    background: #45da0a;
+}
+#dish15 {
+    background: #3b3eca;
+}
+#dish16 {
+    background: #0caf6b;
+}
+#dish17 {
+    background: #1be2e2;
+}
+#dish18 {
+    background: #af107a;
+}
+#dish19 {
+    background: #b60505;
+}
+#dish110 {
+    background: #9417a5;
+}
+#dish111 {
+    background: #0dafaf;
+}
+#dish112 {
+    background: #0e3a6d;
+}
+#dish113 {
+    background: #360d5c;
+}
+#dish114 {
+    background: #b3bb42;
+}
+#dish115 {
+    background: #0a5a56;
+}
+#dish116 {
+    background: #045730;
+}
+#dish117 {
+    background: #8b913b;
+}
+#dish118 {
+    background: #0a5581;
+}
+#dish119 {
+    background: #565c08;
+}
+#dish120 {
+    background: #3184c9;
+}
+#dish121 {
+    background: #747a1b;
+}
+#dish122 {
+    background: #deeb2a;
+}
+#dish123 {
+    background: #0b708f;
+}
+#dish124 {
+    background: #6e7508;
+}
+#dish125 {
+    background: #0d85aa;
+}
+#dish126 {
+    background: #881d0a;
+}
+#dish127 {
+    background: #929929;
+}
+#dish128 {
+    background: #530640;
+}
+#dish129 {
+    background: #a4af0b;
+}
+#dish130 {
+    background: #e1e2d3;
+}
+#dish131 {
+    background: #1fb33f;
+}
+#dish132 {
+    background: #7ac9e0;
+}
+#dish133 {
+    background: #deeb2a;
+}
+#dish134 {
+    background: #1889b6;
+}
+#dish135 {
+    background: #b44fc9;
+}
+#dish136 {
+    background: #34b684;
+}
+#dish137 {
+    background: #518840;
+}
+#dish138 {
+    background: #ad1c60;
+}
+#dish139 {
+    background: #11bd0b;
+}
+#dish140 {
+    background: #b6411d;
+}
+
+
+.w3dish-img1 {
+    background: url(../images/dish1.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img2 {
+    background: url(../images/dish2.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img3 {
+    background: url(../images/dish3.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img4 {
+    background: url(../images/dish4.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img5 {
+    background: url(../images/dish5.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img6 {
+    background: url(../images/dish6.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img7 {
+    background: url(../images/dish7.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img8 {
+    background: url(../images/dish8.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img9 {
+    background: url(../images/dish9.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img10 {
+    background: url(../images/dish10.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img11 {
+    background: url(../images/dish11.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img12 {
+    background: url(../images/dish12.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img13 {
+    background: url(../images/dish13.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img14 {
+    background: url(../images/dish14.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img15 {
+    background: url(../images/dish15.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img16 {
+    background: url(../images/dish16.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img17 {
+    background: url(../images/dish17.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img18 {
+    background: url(../images/dish18.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img19 {
+    background: url(../images/dish19.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img20 {
+    background: url(../images/dish20.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img21 {
+    background: url(../images/dish21.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img22 {
+    background: url(../images/dish22.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img23 {
+    background: url(../images/dish23.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img24 {
+    background: url(../images/dish24.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img25 {
+    background: url(../images/dish25.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img26 {
+    background: url(../images/dish26.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img27 {
+    background: url(../images/dish27.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img28 {
+    background: url(../images/dish28.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img29 {
+    background: url(../images/dish29.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img30 {
+    background: url(../images/dish30.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img31 {
+    background: url(../images/dish31.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img32 {
+    background: url(../images/dish32.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img33 {
+    background: url(../images/dish33.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img34 {
+    background: url(../images/dish34.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img35 {
+    background: url(../images/dish35.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img36 {
+    background: url(../images/dish36.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img37 {
+    background: url(../images/dish37.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img38 {
+    background: url(../images/dish38.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img39 {
+    background: url(../images/dish39.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}.w3dish-img40 {
+    background: url(../images/dish40.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 36em;
+    padding: 0;
+    position: relative;
+}
 
 @media(max-width:1440px){
 	.w3layouts-banner-top,.w3layouts-banner-top1,.w3layouts-banner-top2,.w3layouts-banner-top3{
